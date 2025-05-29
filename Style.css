@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+.linear-text-gradient {
+                background: linear-gradient(to top, rgb(68, 2, 235), rgb(255, 89, 0));
+                -webkit-background-clip: text;
+                background-clip: text;
+                color: transparent;
+            }
+.imagegradiant{
+     background-image: linear-gradient(to bottom right, rgb(89, 0, 255), rgb(134, 54, 106));
+}
